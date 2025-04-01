@@ -2,37 +2,37 @@
 # RUBIK's-CUBE :
 ------------------------------------------------------------------------------------------------------------------------------------------
 
--> This is my rubik's cube code in c language...
+-> This is my Rubik's Cube code in C...
 
--> This solves the cube using layer by layer method...
+-> It solves the cube using the layer-by-layer method
 
--> I used some extra algorithms to solve cube so my code will try to reduce the number of moves that takes to solve cube.. 
+-> I used some extra algorithms to reduce the number of moves needed to solve the cube.. 
 
--> I used basic concepts like for loops, if-else-elseif statements, functions, structures, etc.. in efficient way....
+-> I efficiently used basic concepts like for loops, if-else-if statements, functions, and structures....
 
--> Without making my code complex with advanced concepts like data structures and oops... 
+-> I avoided making my code complex with advanced concepts like data structures and OOP... 
 
--> Here you can solve any colour as layer_1...
+-> You can solve any color as Layer 1
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # How to give inputs :
 ------------------------------------------------------------------------------------------------------------------------------------------
 
--> Give name of the colour at starting..
+-> Give the name of the color at the start..
 
--> According to that colour, in terminal it self, it shows how to give inputs...
-For example; if you take green, it shows like:
+-> According to that color, the terminal itself shows how to give inputs.
+For example, if you take green, it shows:
 
 -> TAKE GREEN AS TOP AND BLUE AS BOTTOM (and you should enter colours at the given centers)
 after entering 4 colours, it will say like
 
--> TAKE ORANGE AS BOTTOM WHILE ENTERING GREEN (and you should enter colours at the green center)
-after that it will show like,
+-> take ORANGE as bottom while entering GREEN (and you should enter colors at the green center)
+After that, it will show:
 
 -> TAKE ORANGE AS TOP WHILE ENTERING BLUE (and you should enter colours at the blue center)
 and press enter... it will take inputs..
 
--> And while giving inputs, use FIRST LETTER of the colour
+-> While giving inputs, use the FIRST LETTER of the color
 
 -> Use only SMALL LETTERS. it will not recognise the capital letters...
 
@@ -40,17 +40,17 @@ and press enter... it will take inputs..
 # HOW TO SOLVE :
 ------------------------------------------------------------------------------------------------------------------------------------------
 
--> After giving inputs, it will shows the formulas like U,U',U2,R',etc... by using them you should solve the cube...
+-> After giving inputs, it will show the formulas like U, U', U2, R', etc... By using them, you should solve the cube...
 
--> and at starting of instructions givin in the code output (just after you enter the colour to solve as layer_1, it shows how to hold the cube.. for example:;
+-> And at the start of the instructions given in the code output (just after you enter the colour to solve as layer_1), it shows how to hold the cube.. for example:
 
--> In green colour, you should take ORANGE AS FACE AND GREEN AS TOP... and apply the formulas that has shown in my output...
+-> In green colour, you should take ORANGE AS FACE AND GREEN AS TOP... and apply the formulas that are shown in my output...
 
--> in layer_2 (after completing layer_1)  you should hold the cube upside down.... for example;
+-> In layer_2 (after completing layer_1), you should hold the cube upside down.... for example:
 
--> In green colour, you are taking orange as face and green as top.. but now SAME FACE (ORANGE) BUT TAKE GREEN AS BOTTOM...
+-> In green colour, you took ORANGE AS FACE AND GREEN AS TOP.. but now keep the SAME FACE (ORANGE) BUT TAKE GREEN AS BOTTOM...
 
--> In this way you can solve it...
+-> In this way, you can solve it...
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # SAMPLE INPUTS :
@@ -58,9 +58,9 @@ and press enter... it will take inputs..
 
 -> Here are some sample inputs (for solving GREEN AS FIRST COLOUR)
 
--> to use these inputs, you should give GREEN AT STARTING to solve as layer_1 ...
+-> To use these inputs, you should give GREEN AT THE START to solve as layer_1...
 
--> After entering GREEN , past these directly and press enter...
+-> After entering GREEN, paste these directly and press enter...
 
 // wwrgyyoryyoygrrobbrorgwwobwbyrgooobggybwgbwrgbywobwyrg
 // wwrwywgywybgbrybowworrwyoryggrgogbgoorbygoyrgooywbbbbr
