@@ -63,7 +63,6 @@ and press enter... it will take inputs..
 -> After entering GREEN , past these directly and press enter...
 
 // wwrgyyoryyoygrrobbrorgwwobwbyrgooobggybwgbwrgbywobwyrg
-// WWRGYYORYYOYGRROBBRORGWWOBWBYRGOOOBGGYBWGBWRGBYWOBWYRG
 // wwrwywgywybgbrybowworrwyoryggrgogbgoorbygoyrgooywbbbbr
 // wwrwywoyyybrbrbbwgbyrowyoybgorgogwgywrbbgoyggorgobrwro
 // bgwoyrowwggggrrbyoyyywwywwybrwoobbwyrorbgyrbooggbbogrr 
