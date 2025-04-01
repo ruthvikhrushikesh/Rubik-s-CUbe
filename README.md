@@ -1,5 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------------------------------
 # RUBIK's-CUBE :
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 -> This is my rubik's cube code in c language...
 -> This solves the cube using layer by layer method...
 -> I used some extra algorithms to solve cube so my code will try to reduce the number of moves that takes to solve cube.. 
@@ -9,7 +10,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 # How to give inputs :
 -------------------------------------------------------------------------------------------------------------------------------------------
-
 -> Give name of the colour at starting..
 -> According to that colour, in terminal it self, it shows how to give inputs...
 For example; if you take green, it shows like:
@@ -25,7 +25,6 @@ and press enter... it will take inputs..
 -------------------------------------------------------------------------------------------------------------------------------------------
 # HOW TO SOLVE :
 -------------------------------------------------------------------------------------------------------------------------------------------
-
 -> After giving inputs, it will shows the formulas like U,U',U2,R',etc... by using them you should solve the cube...
 -> and at starting of instructions givin in the code output (just after you enter the colour to solve as layer_1, it shows how to hold the cube.. for example:;
 -> In green colour, you should take ORANGE AS FACE AND GREEN AS TOP... and apply the formulas that has shown in my output...
