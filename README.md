@@ -95,10 +95,15 @@ and press enter... it will take inputs..
 // yyyryybrwrrwbrobbbowrywbywbwoowowooogggggggggybwobyrrr
 // yyybywrrrrrwbrybwbowrowywbywooroobobgggggggggowwybbory
 // ryowyrbwbyrrbrrrbbwwwywywwyooyooobbrgggggggggoyyrbboow
+
 // green is already set..
+
 // worst case layer-2
+
 // yyyyyboworrrrrrbybwwwwwwyowoooooobrbgggggggggryybbbrbw
+
 // without using layer 1 formula...
+
 // yrwbyyorgbogbrwyybrorgwrrbygobwoorygwwogggyyobgwwbbwro
 // yyyyyyoybrrrrrrrbowwwwwwbrroooooobbbgggggggggywybbbwow
 // yyyyyyybrrrrrrrwbywwwwwwrbwooooooobogggggggggbrbobwbyb
