@@ -56,8 +56,7 @@ int main(){
     printf("\n-------------------- CUBE SOLVER ---------------------\n\n");
     printf("enter which colour you want to solve: ");
     scanf(" %[^\n]",s); 
-//    printf("\nM.U.K.H.Y.A.A.M.S.A.A.L.U:-\nWHILE ENTERING INPUTS :-\n\n");
-    printf("\nWHILE ENTERING INPUTS :-\n\n");
+   printf("\nM.U.K.H.Y.A.A.M.S.A.A.L.U:-\nWHILE ENTERING INPUTS :-\n\n");
     input_handling(s);
     for(k=1;k<7;k++){
         for(i=0;i<3;i++){
@@ -107,8 +106,7 @@ void input_handling(char s[7]){
         printf("TAKE WHITE COLOUR AS TOP AND YELLOW COLOUR AS BOTTOM :\nFOR WHITE CENTER TAKE RED AS BOTTOM :\nFOR YELLOW CENTER TAKE RED AS TOP :");
         printf("\n\nwhile solving take red as face\nwhite as top");
     }
-//    printf("\n\nGamaninchagalaru!!!\n\n");
-    printf("\n\n");
+   printf("\n\nGamaninchagalaru!!!\n\n");
     cube[3][1][1]=s[3];  cube[4][1][1]=s[4];  cube[5][1][1]=s[5];  cube[2][1][1]=s[2];  cube[1][1][1]=s[1];  cube[6][1][1]=s[6];
     input(3);  cube[3][1][1]=s[3];   view(3);
     input(4);  cube[4][1][1]=s[4];   view(4);
