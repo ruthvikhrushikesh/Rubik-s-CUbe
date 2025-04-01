@@ -23,13 +23,13 @@
 -> According to that color, the terminal itself shows how to give inputs.
 For example, if you take green, it shows:
 
--> TAKE GREEN AS TOP AND BLUE AS BOTTOM (and you should enter colours at the given centers)
+* TAKE GREEN AS TOP AND BLUE AS BOTTOM (and you should enter colours at the given centers)
 after entering 4 colours, it will say like
 
--> take ORANGE as bottom while entering GREEN (and you should enter colors at the green center)
+* take ORANGE as bottom while entering GREEN (and you should enter colors at the green center)
 After that, it will show:
 
--> TAKE ORANGE AS TOP WHILE ENTERING BLUE (and you should enter colours at the blue center)
+* TAKE ORANGE AS TOP WHILE ENTERING BLUE (and you should enter colours at the blue center)
 and press enter... it will take inputs..
 
 -> While giving inputs, use the FIRST LETTER of the color
