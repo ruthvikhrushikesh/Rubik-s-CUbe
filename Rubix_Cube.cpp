@@ -644,7 +644,6 @@ void layer_1_s4(){
     (a==1 || a==3) ? s.a++ : a==3 ? s.a+=2 : 0;
 }
 int layer_1_small(int c,int a){
-    printf("coming here");
     move('p',c,'r',1);  move('p',c,'l',3);  move('p',c,'f',a);
     move('p',c,'r',3);  move('p',c,'l',1);
     printf("\n");
